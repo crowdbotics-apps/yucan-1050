@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT yucan_1050.wsgi:application
